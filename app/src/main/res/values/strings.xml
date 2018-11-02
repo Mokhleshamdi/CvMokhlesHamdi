@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MokhlesHamdi</string>
+    <string name="title_activity_welcome">Home</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Welcome </string>
+    <string name="slide_1_desc">This application represent my resume as a software engineer </string>
+
+    <string name="slide_2_title">Skills</string>
+    <string name="slide_2_desc">Discover my skills in mobile and web developement</string>
+
+    <string name="slide_3_title">Projects</string>
+    <string name="slide_3_desc">Having an idea about the project that i made during my engineering studys!</string>
+
+    <string name="slide_4_title">Certifications</string>
+    <string name="slide_4_desc">View my verified certification !</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+    <string name="press_again">press again to get back</string>
+</resources>
